@@ -17,6 +17,7 @@ General Skills
 - Warmed Up
 - 2Warm
 - what's a net cat?
+- strings it
 
 Forensics
 - Glory of the Garden
