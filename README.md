@@ -2,4 +2,11 @@
 log of picoCTF walkthrough
 
 Current walkthrough available:
-1. get aHEAD
+
+pico2019
+Reverse Engineering
+- vault-door-training
+
+pico2021
+Web Exploitation
+- get aHEAD 
