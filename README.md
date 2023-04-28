@@ -11,6 +11,9 @@ Reverse Engineering
 Web Exploitation
 - Insp3ct0r
 
+General Skills
+- Lets Warm Up
+
 pico2021
 
 Web Exploitation
