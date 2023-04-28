@@ -26,3 +26,4 @@ pico2021
 
 Web Exploitation
 - get aHEAD
+- where are the robots
