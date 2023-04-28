@@ -24,6 +24,7 @@ Forensics
 
 Cryptography
 - The Numbers
+- Easy1
 
 pico2021
 
