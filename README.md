@@ -14,6 +14,9 @@ Web Exploitation
 General Skills
 - Lets Warm Up
 
+Forensics
+- Glory of the Garden
+
 pico2021
 
 Web Exploitation
