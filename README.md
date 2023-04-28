@@ -18,6 +18,9 @@ General Skills
 Forensics
 - Glory of the Garden
 
+Cryptography
+- The Numbers
+
 pico2021
 
 Web Exploitation
