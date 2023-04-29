@@ -12,6 +12,7 @@ Reverse Engineering
 Web Exploitation
 - Insp3ct0r
 - logon
+- dont-use-client-side
 
 General Skills
 - Lets Warm Up
@@ -19,6 +20,7 @@ General Skills
 - 2Warm
 - what's a net cat?
 - strings it
+- Bases
 
 Forensics
 - Glory of the Garden
