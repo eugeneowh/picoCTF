@@ -24,6 +24,7 @@ General Skills
 - Bases
 - First Grep
 - Based
+- plumbing
 
 Forensics
 - Glory of the Garden
@@ -40,6 +41,7 @@ Cryptography
 - la cifra de
 - Tapping
 - Flags
+- Mr-Worldwide
 
 pico2021
 
