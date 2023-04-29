@@ -13,6 +13,7 @@ Web Exploitation
 - Insp3ct0r
 - logon
 - dont-use-client-side
+- picobrowser
 
 General Skills
 - Lets Warm Up
