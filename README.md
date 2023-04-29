@@ -21,9 +21,11 @@ General Skills
 - what's a net cat?
 - strings it
 - Bases
+- First Grep
 
 Forensics
 - Glory of the Garden
+- So Meta
 
 Cryptography
 - The Numbers
