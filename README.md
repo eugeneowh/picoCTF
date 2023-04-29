@@ -8,6 +8,7 @@ pico2019
 Reverse Engineering
 - vault-door-training
 - vault-door-1
+- vault-door-3
 
 Web Exploitation
 - Insp3ct0r
