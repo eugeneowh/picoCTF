@@ -11,6 +11,7 @@ Reverse Engineering
 
 Web Exploitation
 - Insp3ct0r
+- logon
 
 General Skills
 - Lets Warm Up
