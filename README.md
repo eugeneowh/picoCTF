@@ -27,6 +27,7 @@ Forensics
 - Glory of the Garden
 - So Meta
 - shark on wire 1
+- extensions
 
 Cryptography
 - The Numbers
