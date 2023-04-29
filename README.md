@@ -28,12 +28,14 @@ Forensics
 - So Meta
 - shark on wire 1
 - extensions
+- What Lies Within 
 
 Cryptography
 - The Numbers
 - Easy1
 - 13
 - caesar
+- la cifra de
 
 pico2021
 
