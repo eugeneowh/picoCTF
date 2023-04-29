@@ -23,6 +23,7 @@ General Skills
 - strings it
 - Bases
 - First Grep
+- Based
 
 Forensics
 - Glory of the Garden
