@@ -14,6 +14,7 @@ Current walkthrough available:
 - convertme.py
 - fixme1.py
 - fixme2.py
+- Glitch Cat
 
 ### Forensics
 
