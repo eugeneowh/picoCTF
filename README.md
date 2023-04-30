@@ -15,6 +15,7 @@ Web Exploitation
 - logon
 - dont-use-client-side
 - picobrowser
+- client-side-again
 
 General Skills
 - Lets Warm Up
@@ -32,7 +33,8 @@ Forensics
 - So Meta
 - shark on wire 1
 - extensions
-- What Lies Within 
+- What Lies Within
+- m00nwalk
 
 Cryptography
 - The Numbers
