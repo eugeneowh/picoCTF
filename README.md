@@ -11,6 +11,7 @@ Current walkthrough available:
 
 ### General Skills
 - codebook
+- convertme.py
 
 ### Forensics
 
