@@ -3,21 +3,35 @@ log of picoCTF walkthrough
 
 Current walkthrough available:
 
-pico2019
+## Beginner picoMini 2022
 
-Reverse Engineering
+### Reverse Engineering
+
+### Web Exploitation
+
+### General Skills
+- codebook
+
+### Forensics
+
+### Cryptography
+
+
+## pico2019
+
+### Reverse Engineering
 - vault-door-training
 - vault-door-1
 - vault-door-3
 
-Web Exploitation
+### Web Exploitation
 - Insp3ct0r
 - logon
 - dont-use-client-side
 - picobrowser
 - client-side-again
 
-General Skills
+### General Skills
 - Lets Warm Up
 - Warmed Up
 - 2Warm
@@ -28,15 +42,14 @@ General Skills
 - Based
 - plumbing
 
-Forensics
+### Forensics
 - Glory of the Garden
 - So Meta
 - shark on wire 1
 - extensions
 - What Lies Within
-- m00nwalk
 
-Cryptography
+### Cryptography
 - The Numbers
 - Easy1
 - 13
@@ -47,8 +60,8 @@ Cryptography
 - Mr-Worldwide
 - rsa-pop-quiz
 
-pico2021
+## pico2021
 
-Web Exploitation
+### Web Exploitation
 - get aHEAD
 - where are the robots
