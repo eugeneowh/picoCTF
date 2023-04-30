@@ -15,6 +15,7 @@ Current walkthrough available:
 - fixme1.py
 - fixme2.py
 - Glitch Cat
+- HashingJobApp
 
 ### Forensics
 
