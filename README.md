@@ -16,6 +16,8 @@ Current walkthrough available:
 - fixme2.py
 - Glitch Cat
 - HashingJobApp
+- PW Crack 1
+- PW Crack 2
 
 ### Forensics
 
