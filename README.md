@@ -18,6 +18,9 @@ Current walkthrough available:
 - HashingJobApp
 - PW Crack 1
 - PW Crack 2
+- PW Crack 3
+- PW Crack 4
+- PW Crack 5
 
 ### Forensics
 
