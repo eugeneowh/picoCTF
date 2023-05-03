@@ -20,7 +20,35 @@ Current walkthrough available:
 - runme.py
 - Serpentine
 
+## picoCTF 2021
+
+### General Skills
+- Obedient Cat
+- Python Wrangling
+
+### Reverse Engineering
+
+### Web Exploitation
+- get aHEAD
+- where are the robots
+
+### Forensics
+
+### Cryptography
+- Mod 26
+
 ## pico2019
+
+### General Skills
+- Lets Warm Up
+- Warmed Up
+- 2Warm
+- what's a net cat?
+- strings it
+- Bases
+- First Grep
+- Based
+- plumbing
 
 ### Reverse Engineering
 - vault-door-training
@@ -33,17 +61,6 @@ Current walkthrough available:
 - dont-use-client-side
 - picobrowser
 - client-side-again
-
-### General Skills
-- Lets Warm Up
-- Warmed Up
-- 2Warm
-- what's a net cat?
-- strings it
-- Bases
-- First Grep
-- Based
-- plumbing
 
 ### Forensics
 - Glory of the Garden
@@ -62,9 +79,3 @@ Current walkthrough available:
 - Flags
 - Mr-Worldwide
 - rsa-pop-quiz
-
-## pico2021
-
-### Web Exploitation
-- get aHEAD
-- where are the robots
