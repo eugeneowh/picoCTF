@@ -5,10 +5,6 @@ Current walkthrough available:
 
 ## Beginner picoMini 2022
 
-### Reverse Engineering
-
-### Web Exploitation
-
 ### General Skills
 - codebook
 - convertme.py
@@ -21,11 +17,8 @@ Current walkthrough available:
 - PW Crack 3
 - PW Crack 4
 - PW Crack 5
-
-### Forensics
-
-### Cryptography
-
+- runme.py
+- Serpentine
 
 ## pico2019
 
