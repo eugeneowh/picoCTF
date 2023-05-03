@@ -25,6 +25,8 @@ Current walkthrough available:
 ### General Skills
 - Obedient Cat
 - Python Wrangling
+- Wave a flag
+- Nice netcat...
 
 ### Reverse Engineering
 
@@ -33,6 +35,7 @@ Current walkthrough available:
 - where are the robots
 
 ### Forensics
+- information
 
 ### Cryptography
 - Mod 26
