@@ -31,7 +31,9 @@ with these values, we can decrpyt the ciphertext using  `c**d mod n = m`, or in 
 
 ![image](https://user-images.githubusercontent.com/91729496/236685863-489bbd5f-d76c-495c-9886-2c03e8282474.png)
 
-After getting the message in numbers, i was unable to decode it into text. Hence... falling back to the online decrypter, we get the message converted to text <<TODO: find out what encoding this is??>>
+After getting the message in numbers, i was unable to decode it into text. Hence... falling back to the online decrypter, we get the message converted to text
 
 ![image](https://user-images.githubusercontent.com/91729496/236689511-1fb714ea-e7a0-4c90-973e-1af22ca89bef.png)
 
+<<TODO: find out what encoding this is??>>
+<<TODO: update on finding of p and q through brute force>>
