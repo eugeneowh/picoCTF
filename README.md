@@ -32,6 +32,7 @@ Current walkthrough available:
 
 ### Reverse Engineering
 - Transformation
+- crackme-py
 
 ### Web Exploitation
 - get aHEAD
