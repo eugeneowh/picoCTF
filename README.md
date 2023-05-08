@@ -39,6 +39,7 @@ Current walkthrough available:
 
 ### Forensics
 - information
+- Matryoshka doll
 
 ### Cryptography
 - Mod 26
