@@ -28,6 +28,7 @@ Current walkthrough available:
 - Wave a flag
 - Nice netcat...
 - Static ain't always noise
+- Tab, Tab, Attack
 
 ### Reverse Engineering
 - Transformation
