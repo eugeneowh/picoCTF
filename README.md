@@ -27,6 +27,7 @@ Current walkthrough available:
 - Python Wrangling
 - Wave a flag
 - Nice netcat...
+- Static ain't always noise
 
 ### Reverse Engineering
 - Transformation
