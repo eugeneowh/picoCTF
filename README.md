@@ -29,6 +29,7 @@ Current walkthrough available:
 - Nice netcat...
 - Static ain't always noise
 - Tab, Tab, Attack
+- Magikarp Ground Mission
 
 ### Reverse Engineering
 - Transformation
@@ -41,6 +42,7 @@ Current walkthrough available:
 ### Forensics
 - information
 - Matryoshka doll
+- tunn3l v1s10n
 
 ### Cryptography
 - Mod 26
