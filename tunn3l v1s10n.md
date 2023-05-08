@@ -14,4 +14,4 @@ It is a data file, which is not very informative. everything points to it being 
 
 nice it opened a weird looking image. lets try adjusting the parameters:
 
-<<TODO>>
+<<TODO - NOT COMPLETE>>
