@@ -35,5 +35,7 @@ After getting the message in numbers, i was unable to decode it into text. Hence
 
 ![image](https://user-images.githubusercontent.com/91729496/236689511-1fb714ea-e7a0-4c90-973e-1af22ca89bef.png)
 
-<<TODO: find out what encoding this is??>>
-<<TODO: update on finding of p and q through brute force>>
+The string is encoded in big edian encoding to convert it to text. python can help with that using `long_to_byte`, in the `Crypto.Util.number` package.
+To find n using brute force, i tried running the below script overnight, but did not get an answer. Subsequently i gave up. This showed that even with a p and q of around 100 bits in length, it is extremely difficult to crack the private keys of RSA. Most other sources (including the online decrypter above) uses FactorDB to look up the factors of N. Do let me know if i can optimise/speed up the below code further!
+
+![image](https://user-images.githubusercontent.com/91729496/236796058-d59188c0-4959-4e49-b837-1b451b46c013.png)
