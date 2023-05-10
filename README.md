@@ -43,6 +43,7 @@ Current walkthrough available:
 - information
 - Matryoshka doll
 - tunn3l v1s10n
+- Wireshark doo dooo do doo...
 
 ### Cryptography
 - Mod 26
