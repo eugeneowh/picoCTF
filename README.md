@@ -50,6 +50,7 @@ Current walkthrough available:
 ### Cryptography
 - Mod 26
 - Mind your Ps and Qs
+- New Caesar
 
 ## pico2019
 
