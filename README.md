@@ -39,6 +39,7 @@ Current walkthrough available:
 ### Web Exploitation
 - get aHEAD
 - where are the robots
+- Scavenger Hunt
 
 ### Forensics
 - information
