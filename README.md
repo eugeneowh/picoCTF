@@ -6,6 +6,7 @@ Current walkthrough available:
 
 ### Binary Exploitation
 - basic-file-exploit
+- buffer overflow 0
 
 ### Cryptography
 - basic-mod1
