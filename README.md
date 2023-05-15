@@ -2,7 +2,15 @@
 log of picoCTF walkthrough
 
 Current walkthrough available:
+## picoCTF 2022
 
+### Binary Exploitation
+- basic-file-exploit
+
+### Cryptography
+- basic-mod1
+- basic-mod2
+ 
 ## Beginner picoMini 2022
 
 ### General Skills
