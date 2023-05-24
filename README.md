@@ -11,6 +11,13 @@ Current walkthrough available:
 ### Cryptography
 - basic-mod1
 - basic-mod2
+
+### Forensics
+- Enhance!
+
+### Reverse Engineering
+- file-run1
+- file-run2
  
 ## Beginner picoMini 2022
 
